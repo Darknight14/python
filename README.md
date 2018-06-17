@@ -1,2 +1,2 @@
 # Python
-Python Assignments
+Python Basics
